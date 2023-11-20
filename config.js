@@ -15,10 +15,10 @@ global.autoRecord = false; //auto recording (true to on, false to off)
 
 
 //
-global.Owner = ["94703892615","94767880946"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ["94703892615"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ["94703892615"];
-global.OwnerName = "DARK DEVIL";
+global.Owner = ["27767494368","27607802476"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ["27767494368,27607802476"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ["27767494368,27607802476"];
+global.OwnerName = "_madeby_ave";
 global.BotName = "DDev";
 global.packname = "🌹⃝⃘̉̉̉̉̉̉𝙳𝙳𝙴𝚅 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂";  //Do not change.
 global.author = "𝙱𝚈 𝙳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻۝⃟̥̩̩̩̥̩";   //Do not change.
@@ -30,7 +30,7 @@ global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
 
 // Set Here Prefix  //
-global.prefa = ["."];
+global.prefa = ["-"];
 global.openAiAPI = "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";
 
 
