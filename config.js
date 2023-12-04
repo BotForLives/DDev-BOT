@@ -15,7 +15,7 @@ global.autoRecord = false; //auto recording (true to on, false to off)
 
 
 //
-global.Owner = ["27767494368","27607802476"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.Owner = ["27767494368","27725693138"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.OwnerNumber = ["27767494368,27607802476"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number
 global.ownertag = ["27767494368,27607802476"];
 global.OwnerName = "_madeby_ave";
